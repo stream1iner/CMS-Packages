@@ -70,16 +70,17 @@
   <string key="PageType.DeletePageTypeWorkflow.PagesRefering.Layout.Label" value="Тип страницы используется" />
   <string key="PageType.DeletePageTypeWorkflow.PagesRefering.Layout.Message" value="Тип страницы {0} уже используется, и его нельзя удалить" />
   <string key="PageType.AddPageTypeDefaultPageContentWorkflow.Layout.Label" value="Добавить контент по умолчанию" />
-  <string key="PageType.AddPageTypeDefaultPageContentWorkflow.FieldGroup.Label" value="Выберите заполнитель" />
   <string key="PageType.AddPageTypeDefaultPageContentWorkflow.PlaceHolderIdTextBox.Label" value="Идентификатор заполнителя" />
   <string key="PageType.AddPageTypeDefaultPageContentWorkflow.PlaceHolderIdTextBox.Help" value="Идентификатор заполнителя. Вы можете указать несуществующий идентификатор и создать заполнитель позже (изменив шаблон страницы)." />
   <string key="PageType.AddPageTypeDefaultPageContentWorkflow.NonExistingPlaceholderId.Title" value="Нет шаблонов с {0}" />
-  <string key="PageType.AddPageTypeDefaultPageContentWorkflow.NonExistingPlaceholderId.Message" value="Обратите внимание, что указанный вами идентификатор заполнителя &#39;{0}&#39; в данный момент отсутствует в шаблонах страниц." />
+  <string key="PageType.AddPageTypeDefaultPageContentWorkflow.NonExistingPlaceholderId.Message" value="Обратите внимание, что указанный вами идентификатор заполнителя '{0}' в данный момент отсутствует в шаблонах страниц." />
   <string key="PageType.EditPageTypeDefaultPageContentWorkflow.Layout.Label" value="Изменить контент по умолчанию" />
   <string key="PageType.EditPageTypeDefaultPageContentWorkflow.SettingsPlaceHolder.Label" value="Настройки" />
   <string key="PageType.EditPageTypeDefaultPageContentWorkflow.SettingsFieldGroup.Label" value="Информация о заполнителе" />
   <string key="PageType.EditPageTypeDefaultPageContentWorkflow.PlaceHolderIdTextBox.Label" value="Идентификатор заполнителя" />
   <string key="PageType.EditPageTypeDefaultPageContentWorkflow.PlaceHolderIdTextBox.Help" value="Идентификатор заполнителя. Вы можете указать несуществующий идентификатор и создать заполнитель позже (изменив шаблон страницы)." />
+  <string key="PageType.EditPageTypeDefaultPageContentWorkflow.PlaceHolderContainerClassesTextBox.Label" value="Классы-контейнеры" />
+  <string key="PageType.EditPageTypeDefaultPageContentWorkflow.PlaceHolderContainerClassesTextBox.Help" value="Дополнительные классы-контейнеры, для добавления к этому заполнителю, когда пользователь редактирует этот тип страницы. Классы-контейнеры позволяют задавать стиль редактора и контролировать, какие компоненты могут быть добавлены." />
   <string key="PageType.EditPageTypeDefaultPageContentWorkflow.ContentXhtmlEditor.Label" value="Контент" />
   <string key="PageType.AddPageTypeMetaDataFieldWorkflow.Layout.Label" value="Добавить поле метаданных" />
   <string key="PageType.AddPageTypeMetaDataFieldWorkflow.FieldGroup.Label" value="" />

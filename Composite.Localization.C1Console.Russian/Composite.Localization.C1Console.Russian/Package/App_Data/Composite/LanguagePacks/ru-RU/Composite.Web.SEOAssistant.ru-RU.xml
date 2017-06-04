@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <strings>
   <string key="SEOAssistant" value="SEO Assistant" />
+  <string key="SEOAssistant.ToolTip" value="Поисковая оптимизация" />
   <string key="IntroText" value="Откройте страницу для предварительного просмотра, чтобы увидеть результаты проверки SEO." />
   <string key="TabResult" value="Результат" />
   <string key="TabKeywords" value="Ключевые слова" />
@@ -14,4 +15,5 @@
   <string key="isInContent" value="Ключевое слово в контенте" />
   <string key="NoKeywords" value="Ключевые слова не найдены в предварительном просмотре" />
 	<string key="IncorrectHtml" value="Не удалось проанализировать ключевые слова, потому что разметка недопустима." />
+  <string key="AddKeywordInputPlaceholder" value="Добавить SEO-слово..." />
 </strings>

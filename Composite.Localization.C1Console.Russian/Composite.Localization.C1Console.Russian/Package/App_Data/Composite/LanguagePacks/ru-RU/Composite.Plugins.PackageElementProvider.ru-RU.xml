@@ -12,6 +12,8 @@
   <string key="PackageSourcesFolderToolTip" value="Серверы пакетов" />
   <string key="ViewAvailableInformationLabel" value="Информация о пакете" />
   <string key="ViewAvailableInformationToolTip" value="Просмотреть информацию о пакете" />
+  <string key="InstallLabel" value="Установить" />
+  <string key="InstallToolTip" value="Установите этот C1-пакет в свою систему" />
   <string key="ViewInstalledInformationLabel" value="Информация о пакете" />
   <string key="ViewInstalledInformationToolTip" value="Просмотреть информацию о пакете" />
   <string key="InstallLocalPackageLabel" value="Установить локальный пакет..." />
@@ -31,6 +33,10 @@
   <string key="ViewAvailableInformation.TrialInformationLabel" value="Информация о пробной версии" />
   <string key="ViewAvailableInformation.TrialInformationText" value="Это коммерческий пакет, бесплатный во время пробного периода. Когда истечет срок действия пробного периода, может быть отключена некоторая функциональность, пока вы не приобретете лицензию." />
   <string key="ViewAvailableInformation.TrialDaysLabel" value="Бесплатный пробный период (дни)" />
+	
+	<string key="ViewAvailableInformation.LicenseInformationGroupLabel" value="Информация о лицензии" />
+	<string key="ViewAvailableInformation.SubscriptionNameLabel" value="Название подписки" />
+	<string key="ViewAvailableInformation.LicenseExpirationDateLabel" value="Дата истечения срока действия лицензии" />
 
 
   <string key="ViewAvailableInformation.InstallationInfoFieldGroupLabel" value="Информация об установке пакета" />
@@ -40,6 +46,7 @@
 
 
   <string key="ViewAvailableInformation.PriceTextLabel" value="Цена (Доллары США)" />
+  <string key="ViewAvailableInformation.SubscriptionListLabel" value="Подписки, которые включают этот пакет" />
   <string key="ViewAvailableInformation.Toolbar.InstallLabel" value="Установить" />
   <string key="ViewAvailableInformation.Toolbar.ReadMoreLabel" value="Подробнее" />
   <string key="ViewAvailableInformation.ShowError.MessageTitle" value="Уже установлен" />
@@ -56,6 +63,10 @@
   <string key="ViewInstalledInformation.TrialInformationLabel" value="Информация о пробной версии" />
   <string key="ViewInstalledInformation.TrialInformationText" value="Это коммерческий пакет, бесплатный во время пробного периода. Когда истечет срок действия пробного периода, может быть отключена некоторая функциональность, пока вы не приобретете лицензию." />
   <string key="ViewInstalledInformation.TrialExpireLabel" value="Дата истечения пробного периода" />
+	
+	<string key="ViewInstalledInformation.LicenseInformationGroupLabel" value="Информация о лицензии" />
+	<string key="ViewInstalledInformation.SubscriptionNameLabel" value="Название подписки" />
+	<string key="ViewInstalledInformation.LicenseExpirationDateLabel" value="Дата истечения срока действия лицензии" />
 
   <string key="ViewInstalledInformation.Toolbar.UninstallLabel" value="Удалить" />
   <string key="ViewInstalledInformation.Toolbar.PurchaseLabel" value="Купить!" />
@@ -86,7 +97,6 @@
   <string key="InstallRemotePackage.ShowWarning.LayoutLabel" value="Пакет не прошел проверку." />
   <string key="InstallRemotePackage.ShowWarning.InfoTableCaption" value="Пакет не прошел проверку." />
   <string key="InstallLocalPackage.Step1.LayoutLabel" value="Установить локальный пакет" />
-  <string key="InstallLocalPackage.Step1.FieldGroupLabel" value="Локальный пакет" />
   <string key="InstallLocalPackage.Step1.FileUploadLabel" value="Файл пакета" />
   <string key="InstallLocalPackage.Step1.FileUploadHelp" value="Выберите файл пакета" />
   <string key="InstallLocalPackage.Step2.LayoutLabel" value="Установить локальный пакет" />

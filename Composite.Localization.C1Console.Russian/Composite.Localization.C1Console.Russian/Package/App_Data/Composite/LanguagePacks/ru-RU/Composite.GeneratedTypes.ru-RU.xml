@@ -10,5 +10,4 @@
 	<string key="NamespaceIsReserved" value="Имя типа принадлежит зарезервированному пространству имен." />
 	<string key="CompileErrorWhileAddingType" value="Нельзя добавить тип данных, так как это приведет к ошибкам при компиляции." />
 	<string key="CompileErrorWhileChangingType" value="Нельзя изменить тип данных, так как это приведет к ошибкам при компиляции." />
-  <string key="FieldDoesNotHaveWidget" value="Для поля '{0}' не указан виджет" />
 </strings>

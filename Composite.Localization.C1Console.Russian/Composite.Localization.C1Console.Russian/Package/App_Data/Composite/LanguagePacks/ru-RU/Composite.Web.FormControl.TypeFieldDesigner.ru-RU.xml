@@ -7,6 +7,10 @@
   <string key="AddNewButtonLabel" value="Добавить" />
   <string key="DeleteButtonLabel" value="Удалить" />
   <string key="LabelDataTypeFields" value="Поля типа данных" />
+
+  <string key="KeyFieldDetailsGroupLabel" value="Свойства ключевого поля" />
+  <string key="KeyFieldType" value="Тип ключевого поля" />
+  <string key="KeyFieldTypeHelp" value="Тип данных ключевого поля. Поля типа GUID имеют оптимальную производительность, строковые ключевые поля полезны, когда значения идентификатора должны отображаться в URL-адресах." />
   
   <string key="FieldDetailsGroupLabel" value="Свойства поля" />
   <string key="Name" value="Имя" />
@@ -70,6 +74,21 @@
   <string key="DefaultValueHelp" value="Вы можете определить значение по умолчанию для этого поля." />
   <string key="DefaultValueDialogLabel" value="Настройка значения поля по умолчанию" />
 
+
+  <string key="DataUrlGroupLabel" value="URL-адрес для элементов данных" />
+  <string key="AppearsInUrlLabel" value="Поле появляется в URL-адресе элемента данных" />
+  <string key="AppearsInUrlItemLabel" value="Использовать в URL-адресах элементов данных" />
+  <string key="AppearsInUrlHelp" value="Если выбрано, то поле появится в URL-адресах элементов данных" />
+  <string key="DataUrlOrderLabel" value="Порядок" />
+  <string key="DataUrlOrderHelp" value="Порядок, в котором поле отображается в URL-адресе элементов данных" />
+
+  <string key="DataUrlDateFormatLabel" value="Формат" />
+  <string key="DataUrlDateFormatHelp" value="Выберите, в каком формате поле даты появится в URL-адресе" />
+  <string key="DataUrlDateFormat_Year" value="Год" />
+  <string key="DataUrlDateFormat_Month" value="Месяц" />
+  <string key="DataUrlDateFormat_Day" value="День" />
+  
+
   <string key="StringMaximumLength" value="Максимальная длина строки" />
   <string key="16CharMax" value="16 символов максимум" />
   <string key="32CharMax" value="32 символа максимум" />
@@ -79,13 +98,22 @@
   <string key="512CharMax" value="512 символов максимум" />
   <string key="1024CharMax" value="1024 символа максимум" />
   <string key="Unlimited" value="Неограниченная длина" />
-  
-  <string key="DecimalNumberFormat" value="Формат десятичных чисел" />
+
+	<string key="SearchGroupLabel" value="Поиск" />
+	<string key="Search.TextSearch" value="Поиск в тексте" />
+	<string key="Search.IndexText.Label" value="Индексировать текстовый контент" />
+	<string key="Search.IndexText.Help" value="Если выбрано, то текстовой контент поля будет доступен для поиска." />
+	<string key="Search.SearchResults" value="Результаты поиска" />
+	<string key="Search.FieldPreview.Label" value="Включить предварительный просмотр поля" />
+	<string key="Search.FieldPreview.Help" value="Если включено, то поле будет отображаться в таблице результатов поиска в виде столбца." />
+	<string key="Search.FacetedSearch" value="Фасетный поиск" />
+	<string key="Search.Facet.Label" value="Включить фасетный поиск" />
+	<string key="Search.Facet.Help" value="Если выбрано, то поле будет отображаться в результатах поиска в виде фасета." />
+
+	<string key="DecimalNumberFormat" value="Формат десятичных чисел" />
   <string key="1DecimalPlace" value="1 десятичный знак" />
-  <string key="2DecimalPlace" value="2 десятичных знака" />
-  <string key="3DecimalPlace" value="3 десятичных знака" />
-  <string key="4DecimalPlace" value="4 десятичных знака" />
-  
+  <string key="nDecimalPlaces" value="{0} десятичных знаков" />
+
   <string key="ReferenceType" value="Тип ссылки" />
   
   <string key="FieldNameSyntaxInvalid" value="Указанное имя недопустимо." />

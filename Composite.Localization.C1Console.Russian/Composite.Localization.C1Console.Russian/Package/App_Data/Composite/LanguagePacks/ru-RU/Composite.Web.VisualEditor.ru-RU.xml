@@ -79,7 +79,6 @@
   <!-- general -->
   <string key="LabelTabBasic" value="Основные" />
   <string key="LabelTabAdvanced" value="Дополнительно" />
-  <string key="LabelPresentation" value="Представление" />
   <string key="LabelClass" value="Класс" />
   <string key="HelpClass" value="Атрибут class определяет имя класса CSS для элемента." />
   <string key="LabelId" value="ID" />
@@ -181,4 +180,17 @@
   <string key="SpellCheck.InfoCaption" value="Как проверить правописание в визуальном редакторе" />
   <string key="SpellCheck.InfoText" value="Чтобы получить подсказки к слову с ошибкой, удерживайте клавишу SHIFT при вызове контекстного меню." />
 
+  <string key="Function.Edit" value="Редактировать" />
+
+  <!-- inline editor button -->
+  <string key="LaunchButton.Label" value="Изменить {0}" />
+
+  <!-- Components -->
+  <string key="Components.LaunchButton.Label" value="Компоненты" />
+  <string key="ContextMenu.LabelComponent" value="Компонент..." />
+  <string key="Components.Window.Headline" value="Выбрать компонент" />
+  <string key="Components.Window.NoItems" value="Нет компонентов для выбора" />
+  <string key="Components.Window.DialogFilterPlaceholder" value="Фильтровать..." />
+  <string key="Components.Window.Ok" value="ОК" />
+  <string key="Components.Window.Cancel" value="Отмена" />
 </strings>

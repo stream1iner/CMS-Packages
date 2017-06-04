@@ -8,7 +8,6 @@
   <string key="AddSystemLocaleWorkflow.AddElementActionLabel" value="Добавить язык" />
   <string key="AddSystemLocaleWorkflow.AddElementActionToolTip" value="Добавить новый язык" />
   <string key="AddSystemLocaleWorkflow.Dialog.Label" value="Добавить язык" />
-  <string key="AddSystemLocaleWorkflow.FieldGroup.Label" value="Выбрать язык" />
   <string key="AddSystemLocaleWorkflow.CultureSelector.Label" value="Языки" />
   <string key="AddSystemLocaleWorkflow.CultureSelector.Help" value="Список доступных, еще неустановленных языков. Для дополнительных настроек можно установить языковые пакеты." />
   <string key="AddSystemLocaleWorkflow.UrlMappingName.Label" value="Код языка для URL" />

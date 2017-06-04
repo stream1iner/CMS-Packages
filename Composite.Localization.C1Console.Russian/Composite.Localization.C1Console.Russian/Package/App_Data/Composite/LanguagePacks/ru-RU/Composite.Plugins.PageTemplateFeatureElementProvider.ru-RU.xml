@@ -12,7 +12,6 @@
     <string key="ElementProvider.EditVisuallyToolTip" value="При выборе этого варианта, для работы с фрагментом шаблона будет использоваться визуальный редактор." />
 
     <string key="AddWorkflow.LabelDialog" value="Добавить новый фрагмент шаблона страниц" />
-    <string key="AddWorkflow.LabelFieldGroup" value="Фрагмент шаблона страниц" />
     <string key="AddWorkflow.LabelTemplateFeatureName" value="Название фрагмента" />
     <string key="AddWorkflow.LabelTemplateFeatureNameHelp" value="Название используется для идентификации этого фрагмента при включении его в шаблон." />
     <string key="AddWorkflow.LabelTemplateFeatureEditorType" value="Тип редактора" />

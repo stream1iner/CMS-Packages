@@ -56,13 +56,12 @@
   <string key="TreeValidationError.FunctionFilter.WrongFunctionReturnType" value="Тип выражения, возвращенный функцией - '{0}', Ожидался тип  '{1}'" />
   <string key="TreeValidationError.FunctionFilter.WrongFunctionParameterCount" value="Количество параметров выражения, возвращенное функцией -  '{0}', Ожидался 1" />
   <string key="TreeValidationError.FunctionFilter.WrongFunctionParameterType" value="Тип параметра выражения, возвращенный функцией -  '{0}', Ожидался '{1}'" />
-  
+
+	<string key="TreeValidationError.CustomFormMarkup.MissingFile" value="Файл '{0}' не существует" />
+	<string key="TreeValidationError.CustomFormMarkup.BadMarkupPath" value="Выборочный путь '{0}'  - неправильного формата.  Используйте ~/Dir1/Dir2/File.xml" />
+	<string key="TreeValidationError.CustomFormMarkup.InvalidXml" value="Файл '{0}' не содержит допустимую XML-разметку." />
   <string key="TreeValidationError.ReportFunctionAction.WrongReturnValue" value="Функция не возвращает значение типа '{0}'" />
-  <string key="TreeValidationError.GenericAddDataAction.MissingMarkupFile" value="Файл '{0}' не существует" />
-  <string key="TreeValidationError.GenericAddDataAction.BadMarkupPath" value="Выборочный путь '{0}'  - неправильного формата.  Используйте ~/ Dir1/Dir2/File.xml" />
   <string key="TreeValidationError.GenericEditDataAction.OwnerIsNotDataNode" value="Операция &quot;изменить данные&quot; применяется только для элементов, которые производят элементы данных" />
-  <string key="TreeValidationError.GenericEditDataAction.MissingMarkupFile" value="Файл '{0}' не существует" />
-  <string key="TreeValidationError.GenericEditDataAction.BadMarkupPath" value="Выборочный путь '{0}' неправильного формата. Используйте ~/ Dir1/Dir2/File.xml" />
   <string key="TreeValidationError.GenericDeleteDataAction.OwnerIsNotDataNode" value="Операция &quot;Удалить данные&quot; применяется только для элементов, которые производит элементы данных" />
   <string key="TreeValidationError.MessageBoxAction.UnknownDialogType" value="Тип диалогового окна '{0}' не поддерживается" />
   <string key="TreeValidationError.CustomUrlAction.TooManyPostParameterElements" value="Слишком много '{0}' элементов.  Допускается только один" />
@@ -98,6 +97,7 @@
   <string key="GenericAddDataAction.DefaultLabel" value="Добавить" />
   <string key="GenericEditDataAction.DefaultLabel" value="Изменить" />
   <string key="GenericDeleteDataAction.DefaultLabel" value="Удалить" />
+  <string key="GenericDuplicateDataAction.DefaultLabel" value="Дублировать" />
   
   
   <string key="TreeGenericDelete.CascadeDeleteErrorTitle" value="Ошибка каскадного удаления" />

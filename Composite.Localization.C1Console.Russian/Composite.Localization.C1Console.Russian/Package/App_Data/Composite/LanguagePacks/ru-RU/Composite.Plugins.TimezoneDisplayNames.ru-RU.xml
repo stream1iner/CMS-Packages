@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<strings>
+  <string key="TimezoneDisplayName.Dateline Standard Time" value="(UTC-12: 00) Международная линия перемены даты Запад" />
+  <string key="TimezoneDisplayName.UTC-11" value="(UTC-11: 00) Координированное универсальное время-11" />
+  <string key="TimezoneDisplayName.Aleutian Standard Time" value="(UTC-10: 00) Алеутские острова" />
+  <string key="TimezoneDisplayName.Hawaiian Standard Time" value="(UTC-10: 00) Гавайи" />
+  <string key="TimezoneDisplayName.Marquesas Standard Time" value="(UTC-09: 30) Маркизские острова" />
+  <string key="TimezoneDisplayName.Alaskan Standard Time" value="(UTC-09: 00) Аляска" />
+  <string key="TimezoneDisplayName.UTC-09" value="(UTC-09: 00) Координированное универсальное время-09" />
+  <string key="TimezoneDisplayName.Pacific Standard Time (Mexico)" value="(UTC-08: 00) Baja California" />
+  <string key="TimezoneDisplayName.UTC-08" value="(UTC-08: 00) Координированное универсальное время-08" />
+  <string key="TimezoneDisplayName.Pacific Standard Time" value="(UTC-08: 00) Тихоокеанское время (США и Канада)" />
+  <string key="TimezoneDisplayName.US Mountain Standard Time" value="(UTC-07: 00) Аризона" />
+  <string key="TimezoneDisplayName.Mountain Standard Time (Mexico)" value="(UTC-07: 00) Чихуахуа, Ла-Пас, Мазатлан" />
+  <string key="TimezoneDisplayName.Mountain Standard Time" value="(UTC-07: 00) Горное время (США и Канада)" />
+  <string key="TimezoneDisplayName.Central America Standard Time" value="(UTC-06: 00) Центральная Америка" />
+  <string key="TimezoneDisplayName.Central Standard Time" value="(UTC-06: 00) Центральное время (США и Канада)" />
+  <string key="TimezoneDisplayName.Easter Island Standard Time" value="(UTC-06: 00) Остров Пасхи" />
+  <string key="TimezoneDisplayName.Central Standard Time (Mexico)" value="(UTC-06: 00) Гвадалахара, Мехико, Монтеррей" />
+  <string key="TimezoneDisplayName.Canada Central Standard Time" value="(UTC-06: 00) Саскачеван" />
+  <string key="TimezoneDisplayName.SA Pacific Standard Time" value="(UTC-05: 00) Богота, Лима, Кито, Рио-Бранко" />
+  <string key="TimezoneDisplayName.Eastern Standard Time (Mexico)" value="(UTC-05: 00) Четумаль" />
+  <string key="TimezoneDisplayName.Eastern Standard Time" value="(UTC-05: 00) Восточное время (США и Канада)" />
+  <string key="TimezoneDisplayName.Haiti Standard Time" value="(UTC-05: 00) Гаити" />
+  <string key="TimezoneDisplayName.Cuba Standard Time" value="(UTC-05: 00) Гавана" />
+  <string key="TimezoneDisplayName.US Eastern Standard Time" value="(UTC-05: 00) Индиана (Восток)" />
+  <string key="TimezoneDisplayName.Paraguay Standard Time" value="(UTC-04: 00) Асунсьон" />
+  <string key="TimezoneDisplayName.Atlantic Standard Time" value="(UTC-04: 00) Атлантическое время (Канада)" />
+  <string key="TimezoneDisplayName.Venezuela Standard Time" value="(UTC-04: 00) Каракас" />
+  <string key="TimezoneDisplayName.Central Brazilian Standard Time" value="(UTC-04: 00) Куяба" />
+  <string key="TimezoneDisplayName.SA Western Standard Time" value="(UTC-04: 00) Джорджтаун, Ла-Пас, Манаус, Сан-Хуан" />
+  <string key="TimezoneDisplayName.Pacific SA Standard Time" value="(UTC-04: 00) Сантьяго" />
+  <string key="TimezoneDisplayName.Turks And Caicos Standard Time" value="(UTC-04: 00) Турки и Кайкос" />
+  <string key="TimezoneDisplayName.Newfoundland Standard Time" value="(UTC-03: 30) Ньюфаундленд" />
+  <string key="TimezoneDisplayName.Tocantins Standard Time" value="(UTC-03: 00) Арагуайна" />
+  <string key="TimezoneDisplayName.E. South America Standard Time" value="(UTC-03: 00) Бразилиа" />
+  <string key="TimezoneDisplayName.SA Eastern Standard Time" value="(UTC-03: 00) Кайенна, Форталеза" />
+  <string key="TimezoneDisplayName.Argentina Standard Time" value="(UTC-03: 00) Город Буэнос-Айрес" />
+  <string key="TimezoneDisplayName.Greenland Standard Time" value="(UTC-03: 00) Гренландия" />
+  <string key="TimezoneDisplayName.Montevideo Standard Time" value="(UTC-03: 00) Монтевидео" />
+  <string key="TimezoneDisplayName.Saint Pierre Standard Time" value="(UTC-03: 00) Сен-Пьер и Микелон" />
+  <string key="TimezoneDisplayName.Bahia Standard Time" value="(UTC-03: 00) Сальвадор" />
+  <string key="TimezoneDisplayName.UTC-02" value="(UTC-02: 00) Координированное универсальное время-02" />
+  <string key="TimezoneDisplayName.Mid-Atlantic Standard Time" value="(UTC-02: 00) Среднеатлантическое - Старое" />
+  <string key="TimezoneDisplayName.Azores Standard Time" value="(UTC-01: 00) Азорские острова" />
+  <string key="TimezoneDisplayName.Cape Verde Standard Time" value="(UTC-01: 00) О-ва Кабо-Верде" />
+  <string key="TimezoneDisplayName.UTC" value="(UTC) Координированное универсальное время" />
+  <string key="TimezoneDisplayName.Morocco Standard Time" value="(UTC+00:00) Касабланка" />
+  <string key="TimezoneDisplayName.GMT Standard Time" value="(UTC+00:00) Дублин, Эдинбург, Лиссабон, Лондон" />
+  <string key="TimezoneDisplayName.Greenwich Standard Time" value="(UTC+00:00) Монровия, Рейкьявик" />
+  <string key="TimezoneDisplayName.W. Europe Standard Time" value="(UTC+01:00) Амстердам, Берлин, Берн, Рим, Стокгольм, Вена" />
+  <string key="TimezoneDisplayName.Central Europe Standard Time" value="(UTC+01:00) Белград, Братислава, Будапешт, Любляна, Прага" />
+  <string key="TimezoneDisplayName.Romance Standard Time" value="(UTC+01:00) Брюссель, Копенгаген, Мадрид, Париж" />
+  <string key="TimezoneDisplayName.Central European Standard Time" value="(UTC+01:00) Сараево, Скопье, Варшава, Загреб" />
+  <string key="TimezoneDisplayName.W. Central Africa Standard Time" value="(UTC+01:00) Западная Центральная Африка" />
+  <string key="TimezoneDisplayName.Namibia Standard Time" value="(UTC+01:00) Виндхук" />
+  <string key="TimezoneDisplayName.Jordan Standard Time" value="(UTC+02:00) Амман" />
+  <string key="TimezoneDisplayName.GTB Standard Time" value="(UTC+02:00) Афины, Бухарест" />
+  <string key="TimezoneDisplayName.Middle East Standard Time" value="(UTC+02:00) Бейрут" />
+  <string key="TimezoneDisplayName.Egypt Standard Time" value="(UTC+02:00) Каир" />
+  <string key="TimezoneDisplayName.E. Europe Standard Time" value="(UTC+02:00) Кишинев" />
+  <string key="TimezoneDisplayName.Syria Standard Time" value="(UTC+02:00) Дамаск" />
+  <string key="TimezoneDisplayName.West Bank Standard Time" value="(UTC+02:00) Газа, Хеврон" />
+  <string key="TimezoneDisplayName.South Africa Standard Time" value="(UTC+02:00) Хараре, Претория" />
+  <string key="TimezoneDisplayName.FLE Standard Time" value="(UTC+02:00) Хельсинки, Киев, Рига, София, Таллинн, Вильнюс" />
+  <string key="TimezoneDisplayName.Turkey Standard Time" value="(UTC+02:00) Стамбул" />
+  <string key="TimezoneDisplayName.Israel Standard Time" value="(UTC+02:00) Иерусалим" />
+  <string key="TimezoneDisplayName.Kaliningrad Standard Time" value="(UTC+02:00) Калининград" />
+  <string key="TimezoneDisplayName.Libya Standard Time" value="(UTC+02:00) Триполи" />
+  <string key="TimezoneDisplayName.Arabic Standard Time" value="(UTC+03:00) Багдад" />
+  <string key="TimezoneDisplayName.Arab Standard Time" value="(UTC+03:00) Кувейт, Эр-Рияд" />
+  <string key="TimezoneDisplayName.Belarus Standard Time" value="(UTC+03:00) Минск" />
+  <string key="TimezoneDisplayName.Russian Standard Time" value="(UTC+03:00) Москва, Санкт-Петербург, Волгоград" />
+  <string key="TimezoneDisplayName.E. Africa Standard Time" value="(UTC+03:00) Найроби" />
+  <string key="TimezoneDisplayName.Iran Standard Time" value="(UTC+03:30) Тегеран" />
+  <string key="TimezoneDisplayName.Arabian Standard Time" value="(UTC+04:00) Абу-Даби, Маскат" />
+  <string key="TimezoneDisplayName.Astrakhan Standard Time" value="(UTC+04:00) Астрахань, Ульяновск" />
+  <string key="TimezoneDisplayName.Azerbaijan Standard Time" value="(UTC+04:00) Баку" />
+  <string key="TimezoneDisplayName.Russia Time Zone 3" value="(UTC+04:00) Ижевск, Самара" />
+  <string key="TimezoneDisplayName.Mauritius Standard Time" value="(UTC+04:00) Порт-Луис" />
+  <string key="TimezoneDisplayName.Georgian Standard Time" value="(UTC+04:00) Тбилиси" />
+  <string key="TimezoneDisplayName.Caucasus Standard Time" value="(UTC+04:00) Ереван" />
+  <string key="TimezoneDisplayName.Afghanistan Standard Time" value="(UTC+04:30) Кабул" />
+  <string key="TimezoneDisplayName.West Asia Standard Time" value="(UTC+05:00) Ашхабад, Ташкент" />
+  <string key="TimezoneDisplayName.Ekaterinburg Standard Time" value="(UTC+05:00) Екатеринбург" />
+  <string key="TimezoneDisplayName.Pakistan Standard Time" value="(UTC+05:00) Исламабад, Карачи" />
+  <string key="TimezoneDisplayName.India Standard Time" value="(UTC+05:30) Ченнаи, Калькутта, Мумбаи, Нью-Дели" />
+  <string key="TimezoneDisplayName.Sri Lanka Standard Time" value="(UTC+05:30) Шри Джаяварденепура" />
+  <string key="TimezoneDisplayName.Nepal Standard Time" value="(UTC+05:45) Катманду" />
+  <string key="TimezoneDisplayName.Central Asia Standard Time" value="(UTC+06:00) Астана" />
+  <string key="TimezoneDisplayName.Bangladesh Standard Time" value="(UTC+06:00) Дакка" />
+  <string key="TimezoneDisplayName.N. Central Asia Standard Time" value="(UTC+06:00) Новосибирск" />
+  <string key="TimezoneDisplayName.Myanmar Standard Time" value="(UTC+06:30) Янгон (Рангун)" />
+  <string key="TimezoneDisplayName.SE Asia Standard Time" value="(UTC+07:00) Бангкок, Ханой, Джакарта" />
+  <string key="TimezoneDisplayName.Altai Standard Time" value="(UTC+07:00) Барнаул, Горно-Алтайск" />
+  <string key="TimezoneDisplayName.W. Mongolia Standard Time" value="(UTC+07:00) Ховд" />
+  <string key="TimezoneDisplayName.North Asia Standard Time" value="(UTC+07:00) Красноярск" />
+  <string key="TimezoneDisplayName.Tomsk Standard Time" value="(UTC+07:00) Томск" />
+  <string key="TimezoneDisplayName.China Standard Time" value="(UTC+08:00) Пекин, Чунцин, Гонконг, Урумчи" />
+  <string key="TimezoneDisplayName.North Asia East Standard Time" value="(UTC+08:00) Иркутск" />
+  <string key="TimezoneDisplayName.Singapore Standard Time" value="(UTC+08:00) Куала-Лумпур, Сингапур" />
+  <string key="TimezoneDisplayName.W. Australia Standard Time" value="(UTC+08:00) Перт" />
+  <string key="TimezoneDisplayName.Taipei Standard Time" value="(UTC+08:00) Тайбэй" />
+  <string key="TimezoneDisplayName.Ulaanbaatar Standard Time" value="(UTC+08:00) Улан-Батор" />
+  <string key="TimezoneDisplayName.North Korea Standard Time" value="(UTC+08:30) Пхеньян" />
+  <string key="TimezoneDisplayName.Aus Central W. Standard Time" value="(UTC+08:45) Eucla" />
+  <string key="TimezoneDisplayName.Transbaikal Standard Time" value="(UTC+09:00) Чита" />
+  <string key="TimezoneDisplayName.Tokyo Standard Time" value="(UTC+09:00) Осака, Саппоро, Токио" />
+  <string key="TimezoneDisplayName.Korea Standard Time" value="(UTC+09:00) Сеул" />
+  <string key="TimezoneDisplayName.Yakutsk Standard Time" value="(UTC+09:00) Якутск" />
+  <string key="TimezoneDisplayName.Cen. Australia Standard Time" value="(UTC+09:30) Аделаида" />
+  <string key="TimezoneDisplayName.AUS Central Standard Time" value="(UTC+09:30) Дарвин" />
+  <string key="TimezoneDisplayName.E. Australia Standard Time" value="(UTC+10:00) Брисбен" />
+  <string key="TimezoneDisplayName.AUS Eastern Standard Time" value="(UTC+10:00) Канберра, Мельбурн, Сидней" />
+  <string key="TimezoneDisplayName.West Pacific Standard Time" value="(UTC+10:00) Гуам, Порт-Морсби" />
+  <string key="TimezoneDisplayName.Tasmania Standard Time" value="(UTC+10:00) Хобарт" />
+  <string key="TimezoneDisplayName.Vladivostok Standard Time" value="(UTC+10:00) Владивосток" />
+  <string key="TimezoneDisplayName.Lord Howe Standard Time" value="(UTC+10:30) Остров Лорд-Хоу" />
+  <string key="TimezoneDisplayName.Bougainville Standard Time" value="(UTC+11:00) Остров Бугенвиль" />
+  <string key="TimezoneDisplayName.Russia Time Zone 10" value="(UTC+11:00) Чокурдах" />
+  <string key="TimezoneDisplayName.Magadan Standard Time" value="(UTC+11:00) Магадан" />
+  <string key="TimezoneDisplayName.Norfolk Standard Time" value="(UTC+11:00) Остров Норфолк" />
+  <string key="TimezoneDisplayName.Sakhalin Standard Time" value="(UTC+11:00) Сахалин" />
+  <string key="TimezoneDisplayName.Central Pacific Standard Time" value="(UTC+11:00) Соломон, Новая Каледония" />
+  <string key="TimezoneDisplayName.Russia Time Zone 11" value="(UTC+12:00) Анадырь, Петропавловск-Камчатский" />
+  <string key="TimezoneDisplayName.New Zealand Standard Time" value="(UTC+12:00) Окленд, Веллингтон" />
+  <string key="TimezoneDisplayName.UTC+12" value="(UTC+12:00) Координированное универсальное время +12" />
+  <string key="TimezoneDisplayName.Fiji Standard Time" value="(UTC+12:00) Фиджи" />
+  <string key="TimezoneDisplayName.Kamchatka Standard Time" value="(UTC+12:00) Петропавловск-Камчатский - Старое" />
+  <string key="TimezoneDisplayName.Chatham Islands Standard Time" value="(UTC+12:45) Острова Чатем" />
+  <string key="TimezoneDisplayName.Tonga Standard Time" value="(UTC+13:00) Нукуалофа" />
+  <string key="TimezoneDisplayName.Samoa Standard Time" value="(UTC+13:00) Самоа" />
+  <string key="TimezoneDisplayName.Line Islands Standard Time" value="(UTC+14:00) Остров Киритимати" />
+</strings>

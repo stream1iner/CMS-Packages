@@ -17,7 +17,6 @@
   <string key="PageTemplateElementProvider.EditXmlTemplateToolTip" value="Редактировать выбранный XML-шаблон" />
 
   <string key="AddNewXmlPageTemplate.LabelDialog" value="Добавить новый XML-шаблон страниц" />
-  <string key="AddNewXmlPageTemplate.LabelFieldGroup" value="XML-шаблон" />
   <string key="AddNewXmlPageTemplate.LabelTemplateTitle" value="Название шаблона" />
   <string key="AddNewXmlPageTemplate.LabelTemplateTitleHelp" value="Название шаблона идентифицирует его в списках. Рекомендуется выбрать короткое и осмысленное название." />
   <string key="AddNewXmlPageTemplate.LabelCopyFrom" value="Копировать из" />
@@ -33,7 +32,7 @@
 
   <string key="EditXmlPageTemplateWorkflow.InvalidXmlTitle" value="Невозможно сохранить шаблон" />
   <string key="EditXmlPageTemplateWorkflow.InvalidXmlMessage" value="Код разметки шаблона не прошел проверку. {0}" />
-  <string key="EditXmlPageTemplateWorkflow.CannotRenameFileExists" value="Нельзя переименовать шаблон - файл с именем &#39;{0}&#39; уже существует." />
+  <string key="EditXmlPageTemplateWorkflow.CannotRenameFileExists" value="Нельзя переименовать шаблон - файл с именем '{0}' уже существует." />
   <string key="EditXmlPageTemplateWorkflow.TitleInUseTitle" value="Название уже используется" />
 
   <string key="DeletePageTemplateStep1.LabelFieldGroup" value="Удалить этот шаблон страницы?" />
@@ -46,7 +45,6 @@
   <string key="DeletePageTemplateWorkflow.PageTypeReference" value="Есть {0} тип (-ы) страниц, использующие этот шаблон: {1}" />
 
   <string key="AddNewPageTemplate.LabelDialog" value="Добавить новый шаблон страниц" />
-  <string key="AddNewPageTemplate.LabelFieldGroup" value="Новый шаблон страниц" />
   <string key="AddNewPageTemplate.TemplateTypeHelp" value="Выберите один из возможных типов шаблонов страниц" />
   <string key="AddNewPageTemplate.TemplateTypeLabel" value="Тип шаблона" />
 

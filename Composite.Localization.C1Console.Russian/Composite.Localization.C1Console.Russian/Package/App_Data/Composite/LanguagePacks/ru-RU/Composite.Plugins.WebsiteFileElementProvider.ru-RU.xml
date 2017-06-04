@@ -23,9 +23,25 @@
   <string key="UploadNewWebsiteFile.ConfirmOverwriteDescription" value="Файл с таким именем уже существует, перезаписать?" />
 	<string key="UploadFile.Error.WrongTypeTitle" value="Неверный тип файла" />
 	<string key="UploadFile.Error.WrongTypeMessage" value="Неверный тип файла" />
-	
 
-	<string key="AddWebsiteFolderTitle" value="Новая папка" />
+  <string key="UploadAndExtractZipFileTitle" value="Загрузить на сайт и извлечь из ZIP" />
+  <string key="UploadAndExtractZipFileToolTip" value="Загрузите на сайт несколько файлов и папок, используя Zip-файл" />
+  <string key="UploadAndExtractZipFile.DialogLabel" value="Загрузить на сайт и извлечь из Zip-файла" />
+  <string key="UploadAndExtractZipFile.FileLabel" value="Zip-файл" />
+  <string key="UploadAndExtractZipFile.FileHelp" value="Структура файлов / папок выбранного вами zip-файла будет извлечена и скопирована на сайт" />
+  <string key="UploadAndExtractZipFile.OverwriteExistingLabel" value="Перезаписать существующие" />
+  <string key="UploadAndExtractZipFile.OverwriteExistingHelp" value="Если вы выберете эту опцию, существующие файлы будут перезаписаны" />
+  <string key="UploadAndExtractZipFile.OverwriteExistingItemLabel" value="Перезаписать существующие файлы" />
+
+  <string key="UploadAndExtractZipFile.FileExistsError" value="Файл '{0}' существует как в zip-файле, так и на сайте. Выберите перезапись файлов, чтобы завершить эту операцию." />
+  <string key="UploadAndExtractZipFile.FileNotUploaded" value="Файл не загружен" />
+  <string key="UploadAndExtractZipFile.NotZip" value="Загруженный файл не является допустимым ZIP-архивом" />
+  <string key="UploadAndExtractZipFile.ErrorDialogLabel" value="Загрузка Zip-файла не может быть завершена" />
+  <string key="UploadAndExtractZipFile.UnexpectedError" value="Неожиданная ошибка загрузки. Подробности см. в журнале сервера" />
+  <string key="UploadAndExtractZipFile.ExistingFileReadOnly" value="Существующий файл '{0}' помечен как &quot;только для чтения&quot;. Файлы не загружены" />
+
+
+  <string key="AddWebsiteFolderTitle" value="Новая папка" />
 	<string key="AddWebsiteFolderToolTip" value="Добавить новую папку" />
 	<string key="AddWebsiteFileTitle" value="Новый файл" />
 	<string key="AddWebsiteFileToolTip" value="Создать новый файл" />

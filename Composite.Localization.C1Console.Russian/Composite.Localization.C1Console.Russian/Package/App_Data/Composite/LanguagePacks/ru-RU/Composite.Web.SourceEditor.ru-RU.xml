@@ -13,8 +13,10 @@
 	<string key="Invalid.HTML.NamespaceURI" value="Корневое пространство имен неправильно." />
 	<string key="Invalid.HTML.MultipleBody" value="Только один тег &lt;body&gt; допускается." />
 	<string key="Invalid.HTML.MultipleHead" value="Только один &lt;head&gt; тег допускается." />
-	
-	<string key="Format.XML.ErrorDialog.Title" value="Форматирование кода прервано" /> 
+  <string key="Invalid.HTML.NotAllowedHtmlChild" value="Корневой тег &lt;html&gt; может иметь только теги &lt;head&gt; и &lt;body&gt; в качестве дочерних." />
+  
+
+  <string key="Format.XML.ErrorDialog.Title" value="Форматирование кода прервано" /> 
 	<string key="Format.XML.ErrorDialog.Text" value="Форматирование XML кода требует правильно сформированной структуры документа." />
 	
 	<!-- plain/colored switch button -->
@@ -34,5 +36,4 @@
 	<string key="Insert.MediaURL.Label" value="URL медиа-файла" />
 	<string key="Insert.FrontendURL.Label" value="Frontend URL" />
 	<string key="Insert.FunctionMarkup.Label" value="Код функции" />
-	
 </strings>

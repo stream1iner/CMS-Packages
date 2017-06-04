@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <strings>
   <string key="EditRazorFileAction.Label" value="Изменить Razor-файл" />
   <string key="EditRazorFileAction.ToolTip" value="Редактировать cshtml-файл" />
@@ -10,7 +10,6 @@
   <string key="DeleteRazorPageTemplateAction.ToolTip" value="Удалить шаблон страниц" />
 
   <string key="AddNewRazorPageTemplate.LabelDialog" value="Добавить новый Razor-шаблон" />
-  <string key="AddNewRazorPageTemplate.LabelFieldGroup" value="Razor-шаблон" />
   <string key="AddNewRazorPageTemplate.LabelTemplateTitle" value="Название шаблона" />
   <string key="AddNewRazorPageTemplate.LabelTemplateTitleHelp" value="Название шаблона идентифицирует его в списках. Рекомендуется выбрать короткое и осмысленное название." />
   <string key="AddNewRazorPageTemplate.LabelCopyFrom" value="Копировать из" />

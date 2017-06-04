@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <strings>
   <string key="AddNewMasterPagePageTemplateWorkflow.LabelDialog" value="Добавить новую главную страницу" />
 
@@ -16,7 +16,6 @@
 
 
   <string key="AddNewMasterPagePageTemplate.LabelDialog" value="Добавить новую главную страницу-шаблон" />
-  <string key="AddNewMasterPagePageTemplate.LabelFieldGroup" value="Главная страница-шаблон" />
   <string key="AddNewMasterPagePageTemplate.LabelTemplateTitle" value="Название шаблона" />
   <string key="AddNewMasterPagePageTemplate.LabelTemplateTitleHelp" value="Название шаблона идентифицирует его в списках. Рекомендуется выбрать короткое и осмысленное название." />
   <string key="AddNewMasterPagePageTemplate.LabelCopyFrom" value="Копировать из" />

@@ -4,15 +4,22 @@
 	<string key="ChangeOwnPasswordWorkflow.ElementActionLabel" value="Изменить пароль ..." />
 	<string key="ChangeOwnPasswordWorkflow.ElementActionToolTip" value="Измените свой пароль" />
 	<string key="ChangeOwnPasswordWorkflow.Dialog.Label" value="Изменить пароль" />
-	<string key="ChangeOwnPasswordWorkflow.Dialog.FieldGroup.Label" value="Измените свой пароль" />
 	<string key="ChangeOwnPasswordWorkflow.Dialog.ExistingPassword.Label" value="Текущий пароль" />
 	<string key="ChangeOwnPasswordWorkflow.Dialog.ExistingPassword.Help" value="В целях безопасности, вы должны указать свой текущий пароль, перед тем как продолжить." />
 	<string key="ChangeOwnPasswordWorkflow.Dialog.NewPassword.Label" value="Новый пароль" />
 	<string key="ChangeOwnPasswordWorkflow.Dialog.NewPassword.Help" value="Пароль, указанный в этом поле, должен совпадать с паролем указанным ниже." />
 	<string key="ChangeOwnPasswordWorkflow.Dialog.NewPasswordConfirmed.Label" value="Подтвердите новый пароль" />
 	<string key="ChangeOwnPasswordWorkflow.Dialog.NewPasswordConfirmed.Help" value="Пароль, указанный в этом поле, должен совпадать с паролем указанным выше" />
+  <string key="ChangeOwnPasswordWorkflow.Dialog.Validation.IncorrectPassword" value="Указанный пароль неверен." />
+  <string key="ChangeOwnPasswordWorkflow.Dialog.Validation.NewPasswordFieldsNotMatch" value="Новые введенные пароли не совпадают." />
+  <string key="ChangeOwnPasswordWorkflow.Dialog.Validation.PasswordsAreTheSame" value="Старый и новый пароли одинаковы." />
+  <string key="ChangeOwnPasswordWorkflow.Dialog.Validation.NewPasswordIsEmpty" value="Новый пароль не может быть пустой строкой." />
+  <string key="ChangeOwnPasswordWorkflow.Dialog.Validation.NewPasswordTooShort" value="Новый пароль должен содержать не менее {0} символов." />
+  <string key="ChangeOwnPasswordWorkflow.NotSupportedErrorLabel" value="Изменение пароля не поддерживается." />
+  <string key="ChangeOwnPasswordWorkflow.NotSupportedErrorText" value="Изменение пароля не поддерживается в текущей конфигурации." />
 
-	<!-- change culture -->
+
+  <!-- change culture -->
 	<string key="ChangeOwnCultureWorkflow.ElementActionLabel" value="Региональные настройки ..." />
 	<string key="ChangeOwnCultureWorkflow.ElementActionToolTip" value="Выбрать язык консоли C1 и формат чисел, времени и дат" />
 	<string key="ChangeOwnCultureWorkflow.Dialog.Label" value="Региональные настройки и язык" />
@@ -22,7 +29,6 @@
   <string key="ChangeOwnCultureWorkflow.Dialog.C1ConsoleLanguageSelector.Help" value="Выберите язык, который будет использоваться для надписей, текстов справки, диалогов и т.п. Имеющиеся здесь варианты ограничены установленными языками. Можно установить дополнительные языки через систему пакетов,  см. Composite.Localization." />
   <string key="ChangeOwnCultureWorkflow.Dialog.Confirm.Title" value="Изменить язык приложения" />
   <string key="ChangeOwnCultureWorkflow.Dialog.Confirm.Text" value="Вы уверены, что  хотите изменить настройки? Приложение перезапустится и все несохраненные изменения будут утеряны." />
-	<string key="ChangeOwnCultureWorkflow.FieldGroup.Label" value="Региональные настройки" />
 	<string key="AdministratorAutoCreator.DefaultGroupName" value="Администраторы" />
 
 	<!-- change own active and foreign locale -->
@@ -36,6 +42,20 @@
 	<string key="ChangeForeignLocaleWorkflow.ForeignCultureSelector.Label" value="Исходный язык" />
 	<string key="ChangeForeignLocaleWorkflow.ForeignCultureSelector.Help" value="Страницы, созданные на исходном языке, будут обозначаться иконками в виде земного шара в дереве раздела &quot;Контент&quot;. Контекстная операция &quot;Перевести страницу&quot; импортирует страницу в текущий рабочий язык." />
 
-
   <string key="ChangeOwnActiveLocaleWorkflow.CloseAllViews.Message" value="Текущий язык был изменен" />
+  
+  <string key="PasswordRules.MinimumLength" value="Пароль должен содержать не менее {0} символов." />
+  <string key="PasswordRules.EnforcePasswordHistory" value="Пароль не должен совпадать с ранее использованными {0} паролями." />
+  <string key="PasswordRules.DifferentCharacterGroups" value="Пароль должен содержать 3/4 следующих элементов: прописные буквы, строчные буквы, цифры, символы." />
+  <string key="PasswordRules.DoNotUseUserName" value="Пароль не может быть основан на имени пользователя." />
+
+	<string key="ChangePasswordForm.ConfirmationPasswordMimatch" value="Несоответствие пароля подтверждения" />
+	<string key="ChangePasswordForm.Username" value="Имя пользователя" />
+	<string key="ChangePasswordForm.OldPassword" value="Старый пароль" />
+	<string key="ChangePasswordForm.NewPassword" value="Новый пароль" />
+	<string key="ChangePasswordForm.ConfirmPassword" value="Подтвердите пароль" />
+	<string key="ChangePasswordForm.ChangePasswordButton" value="Изменить пароль" />
+	<string key="ChangePasswordForm.PasswordExpiredMessage" value="Паролю больше {0} дней(-я). Пожалуйста, измените свой пароль." />
+  <string key="ChangePasswordForm.IncorrectOldPassword" value="Старый пароль неверен." />
+
 </strings>

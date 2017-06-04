@@ -11,7 +11,6 @@
   <string key="DeleteUserControlFunction.ToolTip" value="Удалить функцию на основе пользовательского элемента управления" />
   
   <string key="AddNewUserControlFunction.LabelDialog" value="Добавить новую функцию-элемент управления" />
-  <string key="AddNewUserControlFunction.LabelFieldGroup" value="Новая функция-элемент управления" />
   <string key="AddNewUserControlFunction.LabelName" value="Название" />
   <string key="AddNewUserControlFunction.HelpName" value="" />
   <string key="AddNewUserControlFunction.LabelNamespace" value="Пространство имен" />
@@ -28,7 +27,7 @@
 
   <string key="EditUserControlFunctionWorkflow.Validation.DialogTitle" value="Ошибка проверки" />
   <string key="EditUserControlFunctionWorkflow.Validation.CompilationFailed" value="Сбой при компиляции: {0}" />
-  <string key="EditUserControlFunctionWorkflow.Validation.IncorrectBaseClass" value="Функция-элемент управления должна наследовать &#39;{0}&#39;" />
+  <string key="EditUserControlFunctionWorkflow.Validation.IncorrectBaseClass" value="Функция-элемент управления должна наследовать '{0}'" />
 
   <string key="DeleteUserControlFunctionWorkflow.ConfirmDeleteTitle" value="Удалить функцию-элемент управления?" />
   <string key="DeleteUserControlFunctionWorkflow.ConfirmDeleteMessage" value="Удалить выбранную функцию-элемент управления?" />

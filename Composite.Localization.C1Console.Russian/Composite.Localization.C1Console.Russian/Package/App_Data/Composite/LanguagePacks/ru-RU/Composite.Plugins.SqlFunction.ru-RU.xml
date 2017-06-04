@@ -30,7 +30,6 @@
   <string key="AddEditSqlFunction.LabelIsQuery" value="Является запросом" />
   <string key="AddEditSqlFunction.LabelIsQueryCheckBox" value="Да, эта команда возвращает данные" />
   <string key="AddEditSqlFunction.LabelCommandBehaviour" value="Поведение SQL команды" />
-  <string key="AddEditSqlFunctionConnection.LabelFieldGroup" value="Настройки SQL подключения" />
   <string key="AddEditSqlFunction.LabelSqlEditor" value="SQL команда" />
   <string key="AddNewSqlFunctionConnection.LabelDialog" value="Добавить новое SQL подключение" />
   <string key="AddNewSqlFunctionConnection.LabelName" value="Название" />
@@ -39,6 +38,7 @@
   <string key="AddNewSqlFunctionConnection.HelpConnectionString" value="" />
   <string key="AddNewSqlFunctionConnection.LabelIsMSSQL" value="MS SQL Server" />
   <string key="AddNewSqlFunctionConnection.LabelIsMSSQLCheckBox" value="Это база данных MS SQL Server" />
+  <string key="EditSqlFunctionConnection.LabelFieldGroup" value="Настройки SQL-подключения" />
   <string key="EditSqlFunction.LabelInputParameters" value="Входные параметры" />
   <string key="EditSqlFunction.LabelSettings" value="Настройки" />
   <string key="EditSqlFunction.LabelNamingAndDescription" value="Название и описание функции" />

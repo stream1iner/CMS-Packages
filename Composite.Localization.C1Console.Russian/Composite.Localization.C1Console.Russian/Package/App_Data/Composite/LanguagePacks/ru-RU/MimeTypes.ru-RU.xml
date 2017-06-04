@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string key="image/jpeg" value="Изображение JPEG" />
+	<string key="image/png" value="Изображение PNG" />
+	<string key="image/gif" value="Изображение GIF" />
+	<string key="image/bmp" value="Изображение BMP" />
+	<string key="image/tiff" value="Изображение TIFF" />
+	<string key="image/svg+xml" value="Изображение SVG" />
+	
+	<string key="application/pdf" value="Adobe PDF" />
+	<string key="application/msword" value="Документ Microsoft Word" />
+	<string key="application/vnd.ms-excel" value="Microsoft Excel" />
+	<string key="application/vnd.ms-powerpoint" value="Microsoft PowerPoint" />
+	<string key="application/vnd.openxmlformats-officedocument.wordprocessingml.document" value="Документ Word" />	
+	<string key="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" value="Таблица" />
+	<string key="application/vnd.openxmlformats-officedocument.presentationml.presentation" value="Презентация" />
+	<string key="application/vnd.openxmlformats-officedocument.presentationml.slideshow" value="Презентация (слайд-шоу)" />
+	<string key="application/x-shockwave-flash" value="Adobe Flash" />
+	<string key="application/zip" value="Архив ZIP" />
+	<string key="application/octet-stream" value="Бинарный файл" />
+
+	<string key="video/x-ms-wmv" value="Видео WMV" />
+	<string key="video/mp4" value="Видео MP4" />
+	<string key="video/quicktime" value="Видео QuickTime" />
+	<string key="audio/mpeg" value="Аудио MPEG" />
+
+	<string key="text/html" value="HTML" />
+	<string key="text/plain" value="Простой текст" />
+	<string key="text/xml" value="XML" />
+</strings>

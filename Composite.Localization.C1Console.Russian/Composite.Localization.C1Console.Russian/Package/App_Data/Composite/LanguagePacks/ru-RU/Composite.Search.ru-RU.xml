@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string key="SearchPerspective.Label" value="Поиск" />
+
+	<string key="SearchPage.SearchHerePlaceholder" value="Искать здесь..." />
+	<string key="SearchPage.NoResultFound" value="Нет результатов для '{0}'" />
+	<string key="SearchPage.SingleResultFound" value="1 результат найден для {0}" />
+	<string key="SearchPage.MultipleResultsFound" value="{1} результатов(-та) для '{0}'" />
+
+	<string key="DataType.Page" value="Страница" />
+	<string key="DataType.MediaFile" value="Медиа" />
+	
+	<string key="FieldNames.Label" value="Название" />
+	<string key="FieldNames.Description" value="Описание" />
+	<string key="FieldNames.DataType" value="Тип данных" />
+	<string key="FieldNames.LastUpdated" value="Последнее обновление" />
+	<string key="FieldNames.UpdatedBy" value="Кто обновил" />
+	<string key="FieldNames.PublicationStatus" value="Статус публикации" />
+	<string key="FieldNames.MimeType" value="Медиа-тип" />
+</strings>

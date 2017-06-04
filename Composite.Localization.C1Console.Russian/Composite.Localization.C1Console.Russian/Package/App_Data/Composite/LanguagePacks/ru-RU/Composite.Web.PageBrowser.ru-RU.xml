@@ -3,6 +3,7 @@
 
   <!-- menus -->
   <string key="Menu.ViewSource" value="HTML-код страницы" />
+  <string key="Menu.ViewMode" value="Режим просмотра" />
   <string key="ContextMenu.Back" value="Назад" />
   <string key="ContextMenu.Forward" value="Вперед" />
   <string key="ContextMenu.Refresh" value="Обновить" />
@@ -13,6 +14,7 @@
 	<string key="ToolBarButton.Back.ToolTip" value="Перейти на предыдущую страницу" />
 	<string key="ToolBarButton.Forward.ToolTip" value="Перейти на следующую страницу" />
 	<string key="ToolBarButton.Refresh.ToolTip" value="Обновить страницу" />
+  <string key="ToolBarButton.TreeView.ToolTip" value="Показать дерево" />
   <string key="ToolBarButton.Go.ToolTip" value="Перейти по адресу в адресной строке" />
   <string key="ToolBarButton.Home.ToolTip" value="Перейти на начальную страницу" /> <!-- TODO: Show URL instead! -->
 	

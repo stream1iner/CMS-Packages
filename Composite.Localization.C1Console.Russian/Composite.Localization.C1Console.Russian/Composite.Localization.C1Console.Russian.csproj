@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -28,6 +28,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -72,32 +73,41 @@
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.GeneratedTypes.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Management.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.NameValidation.ru-RU.xml" />
-    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.PackageSystem.PackageFragmentInstallers.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Core.PackageSystem.PackageFragmentInstallers.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Permissions.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.AllFunctionsElementProvider.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.Components.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.GeneratedDataTypesElementProvider.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.GenericPublishProcessController.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.LocalizationElementProvider.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.MasterPagePageTemplate.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.MethodBasedFunctionProviderElementProvider.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.PackageElementProvider.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.PageElementProvider.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.PageTemplateElementProvider.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.PageTemplateFeatureElementProvider.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.PageTypeElementProvider.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.RazorFunction.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.RazorPageTemplate.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.SqlFunction.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.StandardFunctions.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.TimezoneAbbreviations.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.TimezoneDisplayNames.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.UserControlFunction.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.UserGroupElementProvider.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.VisualFunction.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.WebsiteFileElementProvider.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Plugins.XsltBasedFunction.ru-RU.xml" />
-    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.SecurityViolation.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.C1Console.SecurityViolation.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Search.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Web.FormControl.FunctionCallsDesigner.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Web.FormControl.FunctionParameterDesigner.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Web.FormControl.TypeFieldDesigner.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Web.PageBrowser.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Web.SEOAssistant.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Web.SourceEditor.ru-RU.xml" />
-    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Web.UrlConfiguration.ru-RU.xml" />
     <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\Composite.Web.VisualEditor.ru-RU.xml" />
+    <Content Include="Package\App_Data\Composite\LanguagePacks\ru-RU\MimeTypes.ru-RU.xml" />
     <Content Include="Package\install.xml" />
     <Content Include="_PackageCreator\Composite.Localization.C1Console.Russian.xml" />
   </ItemGroup>

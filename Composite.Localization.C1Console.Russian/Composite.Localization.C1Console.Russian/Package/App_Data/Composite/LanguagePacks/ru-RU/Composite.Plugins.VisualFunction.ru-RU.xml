@@ -11,10 +11,8 @@
   <string key="AddNew.NoPageTemplatesExistsErrorMessage" value="Должен существовать по крайней мере один шаблон до создания рендеринга. Создайте шаблон и повторите попытку." />
   <string key="AddNew.MissingActiveLanguageTitle" value="Отсутствует язык" />
   <string key="AddNew.MissingActiveLanguageMessage" value="Для создания визуальной функции, требуется наличие языка, но языки еще не добавлены. Вы можете добавить язык в разделе &quot;Система&quot;." />
-  <string key="AddNewStep1.FieldGroupLabel" value="Выберите тип данных для визуализации" />
   <string key="AddNewStep1.TypeSelectorLabel" value="Тип данных" />
   <string key="AddNewStep1.TypeSelectorHelp" value="" />
-  <string key="AddNewStep2.FieldGroupLabel" value="Название визуальной функции" />
   <string key="AddNewStep2.FuncitonNameLabel" value="Имя функции" />
   <string key="AddNewStep2.FuncitonNameHelp" value="" />
   <string key="AddNewStep2.FuncitonNamespaceLabel" value="Пространство имен функции" />

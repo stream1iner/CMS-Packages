@@ -48,11 +48,21 @@
   <string key="EditDataToolTip" value="Изменить выбранные данные" />
   <string key="DeleteData" value="Удалить данные" />
   <string key="DeleteDataToolTip" value="Удалить выбранные данные" />
+  <string key="DuplicateData" value="Дублировать данные" />
+  <string key="DuplicateDataToolTip" value="Дублировать выбранные данные" />
   <string key="LocalizeData" value="Перевести данные" />
   <string key="LocalizeDataToolTip" value="Перевести выбранные данные" />
-  <string key="LabelPublicationState" value="Статус публикации" />
-  <string key="DraftTransition" value="Черновик" />
-  <string key="AwaitingApprovalTransition" value="Ожидает утверждения" />
+  <string key="PublicationSettings.FieldGroupLabel" value="Настройки публикации" />
+  <string key="PublicationStatus.Label" value="Статус" />
+  <string key="PublicationStatus.Help" value="Задать для данных другой статус публикации." />
+  <string key="PublishDate.Label" value="Дата публикации" />
+  <string key="PublishDate.Help" value="Укажите, в какой день и время вы хотите, чтобы данные были опубликованы автоматически." />
+  <string key="DateCreated.Label" value="Дата создания" />
+  <string key="DateModified.Label" value="Дата изменения" />
+  <string key="CreatedBy.Label" value="Аавтор" />
+  <string key="ChangedBy.Label" value="Аавтор" />
+  <string key="UnpublishDate.Label" value="Дата отмены публикации" />
+  <string key="UnpublishDate.Help" value="Укажите, в какой день и время вы хотите, чтобы у данных была отменена публикация автоматически." />
   <string key="AddNewInterfaceTypeStep1.DocumentTitle" value="Новый тип данных" />
   <string key="AddNewCompositionTypeWorkflow.DocumentTitle" value="Новый метатип для страниц" />
   <string key="AddNewAggregationTypeWorkflow.DocumentTitle" value="Новая папка данных для страниц" />
@@ -67,8 +77,16 @@
   <string key="EditorCommon.LabelTitle" value="Название" />
   <string key="EditorCommon.HelpTitle" value="В этом поле нужно указать понятное для пользователя название типа. Используется главным образом в  пользовательском интерфейсе." />
   <string key="EditorCommon.LabelFields" value="Поля" />
+  <string key="EditorCommon.KeyFieldTypeLabel" value="Тип ключевого поля" />
+  <string key="EditorCommon.KeyFieldTypeHelp" value="Тип первичного ключа. Используйте по умолчанию тип Guid для оптимальной производительности и RandomString случайная строка) для более коротких URL-адресов элементов данных." />
+  <string key="EditorCommon.KeyFieldType.Guid" value="Guid" />
+  <string key="EditorCommon.KeyFieldType.RandomString4" value="Случайная строка, длиной 4 символа" />
+  <string key="EditorCommon.KeyFieldType.RandomString8" value="Случайная строка, длиной 8 символов" />
   <string key="EditorCommon.ServicesLabel" value="Службы" />
+  <string key="EditorCommon.InternalUrlPrefixLabel" value="Короткий URL-адрес" />
+  <string key="EditorCommon.InternalUrlPrefixHelp" value="Когда указано, позволяет ссылаться на элементы данных текущего типа в контенте. Внутренние ссылки будут иметь формат '~/{ShortURLName}({id})', т.е. '~/product(aIkH34F)'" />
   <string key="EditorCommon.HasCaching" value="Поддержка кеширования" />
+	<string key="EditorCommon.IsSearchable" value="Поддерживает поиск" />
   <string key="EditorCommon.HasPublishing" value="Поддержка публикации" />
   <string key="EditorCommon.HasLocalization" value="Поддержка локализации" />
   <string key="DeleteGeneratedDataStep1.LabelFieldGroup" value="Удалить данные?" />
@@ -81,12 +99,12 @@
   <string key="DeleteAggregationTypeWorkflow.LabelFieldGroup" value="Удалить тип данных" />
   <string key="DeleteAggregationTypeWorkflow.Text" value="Удалить тип данных" />
   <string key="DeleteAggregationTypeWorkflow.ErrorTitle" value="Ошибка" />
-  <string key="DeleteAggregationTypeWorkflow.IsUsedByPageType" value="Нельзя удалить тип &#39;{0}&#39;, так как он используется типом страниц." />  
+  <string key="DeleteAggregationTypeWorkflow.IsUsedByPageType" value="Нельзя удалить тип '{0}', так как он используется типом страниц." />  
   <string key="DeleteCompositionTypeWorkflow.LabelFieldGroup" value="Удалить тип данных" />
   <string key="DeleteCompositionTypeWorkflow.Text" value="Удалить тип данных" />
   <string key="DeleteCompositionTypeWorkflow.ErrorTitle" value="Ошибка" />
-  <string key="DeleteCompositionTypeWorkflow.TypeIsReferenced" value="Нельзя удалить тип &#39;{0}&#39;, так как другие типы ссылаются на него." />
-  <string key="DeleteCompositionTypeWorkflow.IsUsedByPageType" value="Нельзя удалить тип &#39;{0}&#39;, так как он используется типом страниц." />  
+  <string key="DeleteCompositionTypeWorkflow.TypeIsReferenced" value="Нельзя удалить тип '{0}', так как другие типы ссылаются на него." />
+  <string key="DeleteCompositionTypeWorkflow.IsUsedByPageType" value="Нельзя удалить тип '{0}', так как он используется типом страниц." />  
   <string key="ToXmlLabel" value="В XML" />
   <string key="ToXmlToolTip" value="В XML" />
   <string key="EnableTypeLocalizationWorkflow.Dialog.Label" value="Включить локализацию" />
@@ -109,17 +127,13 @@
   <string key="LocalizeDataWorkflow.ShowError.InfoTableCaption" value="Ошибки перевода" />
   <string key="LocalizeDataWorkflow.ShowError.AlreadyTranslated" value="Эти данные уже были переведены. Переведенная версия принадлежит к другой группе." />
   <string key="LocalizeDataWorkflow.ShowError.Description" value="Следующие поля ссылаются на определенный тип данных. Вы должны перевести эти элементы данных, прежде чем переводить этот элемент данных" />
-  <string key="LocalizeDataWorkflow.ShowError.FieldErrorFormat" value="Поле &#39;{0}&#39; ссылается на данные типа &#39;{1}&#39; с надписью &#39;{2} &#39;" />
+  <string key="LocalizeDataWorkflow.ShowError.FieldErrorFormat" value="Поле '{0}' ссылается на данные типа '{1}' с надписью '{2} '" />
   <string key="AddNewInterfaceTypeStep1.ErrorTitle" value="Ошибка" />
   <string key="EditInterfaceTypeStep1.ErrorTitle" value="Ошибка" />
   <string key="AddNewCompositionTypeWorkflow.ErrorTitle" value="Ошибка" />
-  <string key="AddNewAggregationTypeWorkflow.ErrorTitle" value="Ошибка" />
-
   <string key="EditCompositionTypeWorkflow.ErrorTitle" value="Ошибка" />
-  <string key="EditAggregationTypeWorkflow.ErrorTitle" value="Ошибка" />
-  
   <string key="DataTypeDescriptorToXmlLabel" value="XML-результат" />
 
   <string key="FormMarkupInfo.Dialog.Label" value="Этот тип имеет собственную разметку формы" />
-  <string key="FormMarkupInfo.Message" value="Ваши изменения в полях не отобразятся в форме для редактирования данных. Выполните &#39;{0}&#39;, чтобы изменить форму или удалите файл &#39;{1}&#39;." />
+  <string key="FormMarkupInfo.Message" value="Ваши изменения в полях не отобразятся в форме для редактирования данных. Выполните '{0}', чтобы изменить форму или удалите файл '{1}'." />
 </strings>

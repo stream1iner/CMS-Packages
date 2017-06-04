@@ -11,7 +11,6 @@
   <string key="DeleteRazorFunction.ToolTip" value="Удалить данную Razor функцию" />
 
   <string key="AddNewRazorFunction.LabelDialog" value="Добавить Razor функцию" />
-  <string key="AddNewRazorFunction.LabelFieldGroup" value="Новая Razor функция" />
   <string key="AddNewRazorFunction.LabelName" value="Название" />
   <string key="AddNewRazorFunction.HelpName" value="" />
   <string key="AddNewRazorFunction.LabelNamespace" value="Пространство имен" />
@@ -29,7 +28,7 @@
 
   <string key="EditRazorFunctionWorkflow.Validation.DialogTitle" value="Ошибка проверки" />
   <string key="EditRazorFunctionWorkflow.Validation.CompilationFailed" value="Сбой при компиляции: {0}" />
-  <string key="EditRazorFunctionWorkflow.Validation.IncorrectBaseClass" value="Razor функция должна наследовать &#39;{0}&#39;" />
+  <string key="EditRazorFunctionWorkflow.Validation.IncorrectBaseClass" value="Razor функция должна наследовать '{0}'" />
 
   <string key="DeleteRazorFunctionWorkflow.ConfirmDeleteTitle" value="Удалить Razor функцию?" />
   <string key="DeleteRazorFunctionWorkflow.ConfirmDeleteMessage" value="Удалить выбранную Razor функцию?" />
